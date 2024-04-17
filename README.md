@@ -4,6 +4,12 @@ Launching our first gaming mouse.
 
 To **support** the project try our latest products.
 
+# To navigate
+
+to the project, you can just click on the domain [here](https://themousecompany.netlify.app/)
+and add you're preferencials.
+Contributions are welcome! Here's how you can contribute:
+
 # To contribute
 
 Contributions are welcome! Here's how you can contribute:
